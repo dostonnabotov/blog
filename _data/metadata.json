@@ -1,8 +1,10 @@
 {
-  "title": "Your Blog Name",
+  "title": "Doston Nabotov | Blog",
   "url": "https://example.com/",
+  "keywords": "blog, doston, nabotov, doston nabotov, doston-nabotov, doston-nabotov.com, doston-nabotov.com/blog, doston-nabotov.com/blog/",
   "language": "en",
   "description": "I am writing about my experiences as a naval navel-gazer.",
+  "favicon": "/img/logo.svg",
   "feed": {
     "subtitle": "I am writing about my experiences as a naval navel-gazer.",
     "filename": "feed.xml",
@@ -14,8 +16,8 @@
     "url": "https://example.com/feed/feed.json"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com",
+    "name": "Doston Nabotov",
+    "email": "doston.nabotov161@gmail.com",
     "url": "https://example.com/about-me/"
   }
 }
